@@ -180,7 +180,7 @@ pytest test_hashtable.py::test_should_handle_collisions -v
 
 ### Desenvolvimento de Software
 1\. **TDD**: Desenvolvimento orientado a testes
-2\. **Design de API**: Interface intuitiva e Pythonica
+2\. **Design de API**: Interface intuitiva e Python
 3\. **Código Limpo**: Legibilidade e manutenibilidade
 4\. **Documentação**: Docstrings e exemplos
 
@@ -194,6 +194,8 @@ pytest test_hashtable.py::test_should_handle_collisions -v
 | Redimensionamento | Load factor 0.7 | Algoritmo complexo |
 | Memória | Mais (listas) | Altamente otimizado |
 | Casos de Uso | Aprendizado, customização | Produção |
+
+##
 
 Essa hash table foi criada inspirada no tutorial do site https://realpython.com/python-hash-table/ com algumas modificações de preferência pessoal.
 
